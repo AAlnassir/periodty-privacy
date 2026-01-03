@@ -90,7 +90,6 @@ Permissions can be revoked at any time through the device settings.
 
 ## 7. Children’s Privacy
 
-Periodty is **not intended for children under the age of 13**.  
 The app does not knowingly collect personal data from children.
 
 ---
