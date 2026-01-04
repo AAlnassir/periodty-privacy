@@ -1,8 +1,6 @@
 # Privacy Policy for Periodty
 
-**Last updated:** 2026-01-01
-
-Periodty ("the App") is a personal health tracking application designed to help users track menstrual cycles and related information. Your privacy is taken seriously. This Privacy Policy explains what data is collected, how it is used, and how it is protected.
+Periodty ("the App") is a personal health tracking application designed to help teens and adults track menstrual cycles and related information. Your privacy is taken seriously. This Privacy Policy explains what data is collected, how it is used, and how it is protected.
 
 ---
 
@@ -48,7 +46,7 @@ The data is **not used for advertising, tracking, profiling, or analytics**.
 ## 3. Data Storage and Security
 
 - All data is stored **locally on the user’s device**
-- Periodty does **not upload data to any external server** by default
+- Periodty does **not upload data to any external server**
 - No cloud synchronization is enabled unless explicitly introduced in a future version and clearly disclosed to users
 
 Reasonable technical measures are applied to protect locally stored data from unauthorized access.
@@ -90,7 +88,10 @@ Permissions can be revoked at any time through the device settings.
 
 ## 7. Children’s Privacy
 
-The app does not knowingly collect personal data from children.
+Periodty is **not intended for children under the age of 13**.
+
+The app does not knowingly collect personal data from children under 13.  
+If you believe that a child under 13 has provided personal data through the app, please contact the developer so appropriate action can be taken.
 
 ---
 
